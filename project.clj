@@ -10,7 +10,7 @@
                  [clj-native "0.9.3"]
                  [net.java.dev.jna/jna "4.1.0"]]
 
-  :resource-paths ["resources/bukkit-1.8-R0.1-SNAPSHOT.jar"
+  :resource-paths ["resources/bukkit-1.8.3-R0.1-SNAPSHOT.jar"
                    "resources/overtone-logo.png"
                    "resources/minecraft.overtone-0.10-SNAPSHOT-standalone.jar"]
   :profiles {:dev {:dependencies []}}
