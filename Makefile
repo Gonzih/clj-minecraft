@@ -30,3 +30,6 @@ reset-world:
 	cd minecraft && rm -rf world/*
 	cd minecraft && rm -rf world_nether/*
 	cd minecraft && rm -rf world_the_end/*
+
+clean:
+	rm minecraft -rf
